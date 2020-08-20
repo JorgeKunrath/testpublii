@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TestPublii",
+    "description": "",
+    "home_page_url": "https://jorgekunrath.github.io/testpublii.github.io",
+    "feed_url": "https://jorgekunrath.github.io/testpublii.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jorge"
+    },
+    "items": [
+        {
+            "id": "https://jorgekunrath.github.io/testpublii.github.io/primeiro-post.html",
+            "url": "https://jorgekunrath.github.io/testpublii.github.io/primeiro-post.html",
+            "title": "Primeiro Post",
+            "summary": " Caption da imagem aqui ",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/TESTE1.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-xs.png 300w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-sm.png 480w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-md.png 768w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-lg.png 1024w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-xl.png 1360w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-2xl.png 1600w\"  height=\"768\" width=\"1024\" alt=\"alttext\" />\n      <figcaption>Caption da imagem aqui</figcaption>\n    </figure>",
+            "image": "https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/TESTE1-2.png",
+            "author": {
+                "name": "Jorge"
+            },
+            "tags": [
+                   "TestTag"
+            ],
+            "date_published": "2020-08-20T03:31:12-03:00",
+            "date_modified": "2020-08-20T03:31:12-03:00"
+        }
+    ]
+}
