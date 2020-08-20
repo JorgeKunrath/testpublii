@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://jorgekunrath.github.io/testpublii.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://jorgekunrath.github.io/testpublii/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://jorgekunrath.github.io/testpublii.github.io/</loc>
+<loc>https://jorgekunrath.github.io/testpublii/</loc>
 </url>
 <url>
-<loc>https://jorgekunrath.github.io/testpublii.github.io/primeiro-post.html</loc>
+<loc>https://jorgekunrath.github.io/testpublii/primeiro-post.html</loc>
 <lastmod>2020-08-20T03:27:24-03:00</lastmod>
 <image:image>
-<image:loc>https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/TESTE1-2.png</image:loc>
+<image:loc>https://jorgekunrath.github.io/testpublii/media/posts/1/TESTE1-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

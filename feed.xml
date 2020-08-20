@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>TestPublii</title>
-    <link href="https://jorgekunrath.github.io/testpublii.github.io/feed.xml" rel="self" />
-    <link href="https://jorgekunrath.github.io/testpublii.github.io" />
+    <link href="https://jorgekunrath.github.io/testpublii/feed.xml" rel="self" />
+    <link href="https://jorgekunrath.github.io/testpublii" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Jorge</name>
     </author>
-    <id>https://jorgekunrath.github.io/testpublii.github.io</id>
+    <id>https://jorgekunrath.github.io/testpublii</id>
 
     <entry>
         <title>Primeiro Post</title>
         <author>
             <name>Jorge</name>
         </author>
-        <link href="https://jorgekunrath.github.io/testpublii.github.io/primeiro-post.html"/>
-        <id>https://jorgekunrath.github.io/testpublii.github.io/primeiro-post.html</id>
+        <link href="https://jorgekunrath.github.io/testpublii/primeiro-post.html"/>
+        <id>https://jorgekunrath.github.io/testpublii/primeiro-post.html</id>
             <category term="TestTag"/>
 
-        <updated>2020-08-20T03:31:12-03:00</updated>
+        <updated>2020-08-20T03:42:28-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/TESTE1-2.png" alt="" />
+                        <img src="https://jorgekunrath.github.io/testpublii/media/posts/1/TESTE1-2.png" alt="" />
                      Caption da imagem aqui 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/TESTE1-2.png" alt="" />
+                    <img src="https://jorgekunrath.github.io/testpublii/media/posts/1/TESTE1-2.png" alt="" />
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/TESTE1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-xs.png 300w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-sm.png 480w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-md.png 768w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-lg.png 1024w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-xl.png 1360w ,https://jorgekunrath.github.io/testpublii.github.io/media/posts/1/responsive/TESTE1-2xl.png 1600w"  height="768" width="1024" alt="alttext" />
+      <img loading="lazy" src="https://jorgekunrath.github.io/testpublii/media/posts/1/TESTE1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-xs.png 300w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-sm.png 480w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-md.png 768w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-lg.png 1024w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-xl.png 1360w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-2xl.png 1600w"  height="768" width="1024" alt="alttext" />
       <figcaption>Caption da imagem aqui</figcaption>
     </figure>
             ]]>
