@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://jorgekunrath.github.io/testpublii/primeiro-post.html",
-            "url": "https://jorgekunrath.github.io/testpublii/primeiro-post.html",
+            "id": "https://jorgekunrath.github.io/testpublii/primeiro-post/",
+            "url": "https://jorgekunrath.github.io/testpublii/primeiro-post/",
             "title": "Primeiro Post",
             "summary": " Caption da imagem aqui ",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://jorgekunrath.github.io/testpublii/media/posts/1/TESTE1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-xs.png 300w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-sm.png 480w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-md.png 768w ,https://jorgekunrath.github.io/testpublii/media/posts/1/responsive/TESTE1-lg.png 1024w\"  height=\"768\" width=\"1024\" alt=\"alttext\" />\n      <figcaption>Caption da imagem aqui</figcaption>\n    </figure>",
@@ -22,8 +22,8 @@
             "tags": [
                    "TestTag"
             ],
-            "date_published": "2020-08-20T04:08:27-03:00",
-            "date_modified": "2020-08-20T04:08:27-03:00"
+            "date_published": "2020-08-21T02:00:23-03:00",
+            "date_modified": "2020-08-21T02:00:23-03:00"
         }
     ]
 }
